@@ -10,7 +10,7 @@ Now Web Assignment
 ###
 
 <div align="center">
-  <img height="200" src="https://ibb.co/mvhbRBR"  />
+   ![Screenshot 2023-10-01 173357](https://github.com/atharvabarve28/parallax-effect/assets/65180102/23a6148f-ceea-48e7-a535-96d0d2ee3f7b)
 </div>
 
 ###
