@@ -17,4 +17,5 @@ https://github.com/atharvabarve28/parallax-effect/assets/65180102/3762893f-dfae-
 
 </div>
 
+https://parallaxeffectbyatharva.netlify.app/
 ###
